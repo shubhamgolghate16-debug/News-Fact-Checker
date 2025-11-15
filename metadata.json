@@ -1,0 +1,5 @@
+{
+  "name": "Fact Checker Agent",
+  "description": "An AI-powered agent that uses Google Search grounding to fact-check news, articles, and claims. Users can input a URL or text, and the agent verifies the information against web sources, providing an analysis and a list of references.",
+  "requestFramePermissions": []
+}
